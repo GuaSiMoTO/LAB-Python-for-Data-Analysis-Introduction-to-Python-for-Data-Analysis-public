@@ -43,7 +43,9 @@ pip install pandas
 3. Use .iloc[] to select the first three rows of the DataFrame.
 
 ## Iteration 4
-Importar un DataFrame desde un archivo CSV llamado products.csv
+
+Import a DataFrame from a CSV file named products.csv.
+
 ## Iteration 5
 
 1. Filter and display products that have a price greater than $200.
@@ -51,13 +53,12 @@ Importar un DataFrame desde un archivo CSV llamado products.csv
 3. Display products sorted by price in descending order.
 
 ## Iteration 6
+
 1. Group the products DataFrame by 'Category' and calculate the average price for each category.
 2. Find the total stock for each category.
 3. List the maximum price of products in each category.
 
-## Iteration 7
-
-### Iteration 7: Applying Map Functions in Pandas
+## Iteration 7: Applying Map Functions in Pandas
 
 1. **Using `map()` to Apply a Discount:**
    Create a new column `Discounted Price` that applies a 10% discount to all products.
