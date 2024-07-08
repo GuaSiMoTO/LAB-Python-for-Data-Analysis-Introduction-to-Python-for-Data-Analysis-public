@@ -1,0 +1,51 @@
+Product ID,Product Name,Price,Category,Stock
+101,Laptop,1200,Electronics,20
+102,Printer,150,Electronics,30
+103,Tablet,300,Electronics,15
+104,Desk,450,Furniture,5
+105,Chair,100,Furniture,10
+106,Monitor,200,Electronics,25
+107,Keyboard,50,Electronics,40
+108,Mouse,25,Electronics,50
+109,Phone,800,Electronics,35
+110,Headphones,75,Electronics,45
+111,Webcam,60,Electronics,25
+112,Router,120,Electronics,20
+113,Speakers,110,Electronics,30
+114,Microphone,130,Electronics,10
+115,Smartwatch,250,Electronics,5
+116,Camera,600,Electronics,7
+117,Laptop Bag,45,Accessories,50
+118,USB Drive,15,Accessories,60
+119,External HDD,70,Storage,70
+120,Internal SSD,80,Storage,25
+121,Graphic Card,250,Components,10
+122,Motherboard,300,Components,15
+123,Power Supply,120,Components,10
+124,Cooling Fan,35,Components,20
+125,Projector,400,Electronics,15
+126,Scanner,250,Electronics,10
+127,Laser Printer,350,Electronics,25
+128,Inkjet Printer,200,Electronics,30
+129,Server,1500,Electronics,5
+130,Desktop PC,900,Electronics,7
+131,Gaming Console,500,Gaming,8
+132,VR Headset,600,Gaming,6
+133,Action Camera,250,Electronics,12
+134,Fitness Tracker,200,Wearables,15
+135,Smart Glasses,350,Wearables,8
+136,Drone,700,Drones,5
+137,3D Printer,800,Electronics,6
+138,Bluetooth Speaker,120,Electronics,20
+139,Smart Bulb,20,Smart Home,30
+140,Smart Thermostat,150,Smart Home,15
+141,Security Camera,220,Smart Home,25
+142,Digital Frame,100,Smart Home,20
+143,E-Reader,180,Electronics,10
+144,Smart Lock,90,Smart Home,30
+145,Robot Vacuum,350,Smart Home,5
+146,Electric Scooter,450,Electronics,10
+147,Portable Charger,50,Accessories,15
+148,Smart Plug,30,Smart Home,50
+149,Smart Scale,70,Health,40
+150,Blood Pressure Monitor,60,Health,20
