@@ -71,7 +71,7 @@ Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Categor
 
 1. **Using `map()` to Apply a Discount:**
    Create a new column `Discounted Price` that applies a 10% discount to all products.
-2. *Using apply() to Calculate Total Stock Value:**
+2. **Using apply() to Calculate Total Stock Value:**
    Calculate the total stock value of each product and add it as a new column Total Stock Value.
 3. **Classifying Products by Price:**
    Create a function to classify products as 'Expensive' or 'Cheap' based on whether the price is greater than $500, and use apply() to create a Price Category column.
