@@ -33,18 +33,18 @@ pip install pandas
  'Product Name': ['Laptop', 'Printer', 'Tablet', 'Desk'],
  'Price': [1200, 150, 300, 450]}
 ```
-2 .Use the head() method to display the first 5 rows of the DataFrame.
-3. Use the tail() method to display the last 5 rows of the DataFrame.
+2 .Use the `head()` method to display the first 5 rows of the DataFrame.
+3. Use the `tail()` method to display the last 5 rows of the DataFrame.
 4. Add a new column to products named Category, assigning all entries to 'Electronics' except for 'Desk', which should be 'Furniture'.
 5. Add another column named Stock, with values [20, 30, 15, 5].
 
 ## Iteration 3
 
 1. Select and print the 'Product Name' and 'Price' columns from the products DataFrame.
-2. Use .loc[] to select all details for the product with ID 103.
-3. Use .iloc[] to select the first three rows of the DataFrame.
+2. Use `.loc[]` to select all details for the product with ID 103.
+3. Use `.iloc[]` to select the first three rows of the DataFrame.
 4. Select and display the rows where the Supplier is 'Supplier A'.
-5. Use .loc[] to update the price of the product with ID 102 to 160.
+5. Use `.loc[]` to update the price of the product with ID 102 to 160.
 
 ## Iteration 4
 
