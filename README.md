@@ -44,7 +44,7 @@ pip install pandas
 
 ## Iteration 4
 
-Import a DataFrame from a CSV file named products.csv.
+Import a DataFrame from a CSV file named `products.csv`.
 
 ## Iteration 5
 
