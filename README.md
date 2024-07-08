@@ -1,10 +1,29 @@
 # LAB-Python-for-Data-Analysis-Introduction-to-Python-for-Data-Analysis
 
+![Excel Image](https://user-images.githubusercontent.com/970858/63474771-d6734700-c469-11e9-83bb-9429da563909.png)
 
+## Introduction
 
-## Iteration 1
+> ***Note:*** _This can be a pair programming activity or done independently._
 
-Initail Setup
+Hello everyone, welcome to this lab where we will apply fundamental Python concepts for data analysis through practical case studies. We'll learn how to manipulate data using pandas and perform basic data analysis. Imagine you are part of a small team at a company, and you need to manage and analyze the team's data using Python.
+
+## Initial Setup
+
+### Fork The Repository
+First things first, head over to GitHub and click the `fork button` to create a copy of this repository in your personal account. This will allow you to make changes and save your progress.
+
+## Scenario
+
+You've been hired as a data analyst for a small company. They have given you a set of product data that needs analysis. Your task is to manage this data using pandas and provide insights to the management team.
+
+## Iteration 1: Initial Setup
+
+Set up your Python environment and ensure you have pandas installed. You can do this using pip:
+
+```bash
+pip install pandas
+```
 
 ## Iteration 2
 
@@ -49,4 +68,10 @@ Importar un DataFrame desde un archivo CSV llamado products.csv
 
 ## Iteration 8
 
-Export as csv
+Export the cleaned and analyzed DataFrame to a new CSV file.
+
+## How to Submit
+To submit this LAB, upload the file to your forked repository
+
+## Additional Resources
+
