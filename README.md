@@ -28,6 +28,7 @@ pip install pandas
 ## Iteration 2
 
 1. Create a DataFrame named products with the following data:
+
 ```python
 {'Product ID': [101, 102, 103, 104],
  'Product Name': ['Laptop', 'Printer', 'Tablet', 'Desk'],
