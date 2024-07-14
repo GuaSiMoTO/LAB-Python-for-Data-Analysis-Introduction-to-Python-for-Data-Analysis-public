@@ -17,6 +17,14 @@ First things first, head over to GitHub and click the `fork button` to create a 
 
 You've been hired as a data analyst for a small company. They have given you a set of product data that needs analysis. Your task is to manage this data using pandas and provide insights to the management team.
 
+## Iteration 0: Install Dependencies
+
+Make sure you have all the necessary libraries installed by using the `requirements.txt` file provided. You can install the dependencies with the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Iteration 1: Initial Setup
 
 Set up your Python environment and ensure you have pandas installed. You can do this using pip:
