@@ -46,7 +46,7 @@ pip install pandas
 2. Use `.loc[]` to select all details for the product with ID 103.
 3. Use `.iloc[]` to select the first three rows of the DataFrame.
 4. Select and display the rows where the Supplier is 'Supplier A'.
-5. Use `.loc[]` to update the price of the product with ID 102 to 103.
+5. Use `.loc[]` to update the price of the product with ID 102 to 160.
 
 ## Iteration 4
 
