@@ -96,8 +96,17 @@ Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Categor
 
 Export the cleaned and analyzed DataFrame to a new CSV file.
 
-## How to Submit
-Once you have completed your analysis and visualizations, push your Jupyter notebook to your forked GitHub repository.
+## Submission
+Once you have completed your analysis and visualizations, push your Jupyter notebook to your forked GitHub repository. Ensure that your final submission includes narratives explaining your visualizations and insights.
+Run the following commands:
+
+```
+$ git add .
+$ git commit -m "done"
+$ git push origin main
+```
+
+Then create a Pull Request!!
 
 ## Additional Resources
 
