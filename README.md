@@ -35,8 +35,7 @@ pip install pandas
  'Price': [1200, 150, 300, 450]}
 ```
 
-2 .Use the `head()` method to display the first 5 rows of the DataFrame.
-
+2. Use the `head()` method to display the first 5 rows of the DataFrame.
 3. Use the `tail()` method to display the last 5 rows of the DataFrame.
 4. Add a new column to products named Category, assigning all entries to 'Electronics' except for 'Desk', which should be 'Furniture'.
 5. Add another column named Stock, with values [20, 30, 15, 5].
