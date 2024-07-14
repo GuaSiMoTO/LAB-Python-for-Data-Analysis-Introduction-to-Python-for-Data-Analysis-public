@@ -19,6 +19,28 @@ Start by forking the provided GitHub repository to your account and then clone i
 
 You've been hired as a data analyst for a small company. They have given you a set of product data that needs analysis. Your task is to manage this data using pandas and provide insights to the management team.
 
+## Starter Code
+
+You have to solve the different problems in the `LAB-Intro-Pandas.ipynb` notebook.
+
+To get started, follow these steps:
+
+1. Open your terminal and navigate to the `cloned-repo` directory:
+
+    ```bash
+    cd path/to/your/cloned-repo/
+    ```
+
+2. Launch Jupyter Notebook:
+
+    ```bash
+    jupyter lab
+    ```
+
+3. In the Jupyter Notebook interface, open the `LAB-Intro-Pandas.ipynb.ipynb` file.
+
+To test that everything is set up correctly, run the first cell in the notebook. This cell usually contains import statements and initial setup code. If it runs without errors, you are ready to start solving the exercises.
+
 ## Iteration 0: Install Dependencies
 
 Make sure you have all the necessary libraries installed by using the `requirements.txt` file provided. You can install the dependencies with the following command:
