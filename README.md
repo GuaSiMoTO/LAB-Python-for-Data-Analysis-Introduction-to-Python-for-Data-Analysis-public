@@ -70,7 +70,7 @@ Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Categor
 4. Group the DataFrame by Supplier and show the total stock for each supplier.
 5. Group by Category and Supplier and show the average price for each combination.
 
-## Iteration 7: Applying Map Functions in Pandas
+## Iteration 7
 
 1. **Using `map()` to Apply a Discount:**
    Create a new column `Discounted Price` that applies a 10% discount to all products.
