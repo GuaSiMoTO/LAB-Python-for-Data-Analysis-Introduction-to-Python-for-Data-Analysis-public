@@ -33,6 +33,7 @@ pip install pandas
  'Product Name': ['Laptop', 'Printer', 'Tablet', 'Desk'],
  'Price': [1200, 150, 300, 450]}
 ```
+
 2 .Use the `head()` method to display the first 5 rows of the DataFrame.
 3. Use the `tail()` method to display the last 5 rows of the DataFrame.
 4. Add a new column to products named Category, assigning all entries to 'Electronics' except for 'Desk', which should be 'Furniture'.
@@ -49,6 +50,7 @@ pip install pandas
 ## Iteration 4
 
 Import a DataFrame from a CSV file named `products.csv`.
+
 Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Category', 'Stock', 'Supplier'].
 
 ## Iteration 5
