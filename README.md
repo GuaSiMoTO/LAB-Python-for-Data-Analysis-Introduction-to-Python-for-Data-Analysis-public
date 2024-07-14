@@ -78,15 +78,20 @@ Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Categor
 
 ## Iteration 8
 
-1. Generate a statistical summary of the DataFrame using the describe() method.
-2. Use the value_counts() method to count the number of products in each category.
+1. Generate a statistical summary of the DataFrame using the `describe()` method.
+2. Use the `value_counts()` method to count the number of products in each category.
 
 ## Iteration 9
 
 Export the cleaned and analyzed DataFrame to a new CSV file.
 
 ## How to Submit
-To submit this LAB, upload the file to your forked repository
+Once you have completed your analysis and visualizations, push your Jupyter notebook to your forked GitHub repository.
 
 ## Additional Resources
+
+- []().
+
+
+![happy_coding](https://user-images.githubusercontent.com/970858/63899010-c23fc480-c9ea-11e9-84a2-542907e42362.png)
 
