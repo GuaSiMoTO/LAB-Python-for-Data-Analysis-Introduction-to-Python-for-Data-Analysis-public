@@ -27,15 +27,7 @@ Make sure you have all the necessary libraries installed by using the `requireme
 pip install -r requirements.txt
 ```
 
-## Iteration 1: Initial Setup
-
-Set up your Python environment and ensure you have pandas installed. You can do this using pip:
-
-```bash
-pip install pandas
-```
-
-## Iteration 2
+## Iteration 1
 
 1. Create a DataFrame named products with the following data:
 
@@ -51,20 +43,20 @@ pip install pandas
 5. Add another column named Stock, with values [20, 30, 15, 5].
 
 
-## Iteration 3
+## Iteration 2
 1. Select and print the 'Product Name' and 'Price' columns from the products DataFrame.
 2. Use `.loc[]` to select all details for the product with ID 103.
 3. Use `.iloc[]` to select the first three rows of the DataFrame.
 4. Select and display the rows where the Supplier is 'Supplier A'.
 5. Use `.loc[]` to update the price of the product with ID 102 to 160.
 
-## Iteration 4
+## Iteration 3
 
 Import a DataFrame from a CSV file named `products.csv`.
 
 Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Category', 'Stock', 'Supplier'].
 
-## Iteration 5
+## Iteration 4
 
 1. Filter and display products that have a price greater than $200.
 2. Show products in the 'Electronics' category that have a stock less than 25.
@@ -72,7 +64,7 @@ Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Categor
 4. Filter and display products whose Supplier is 'Supplier B' and whose stock is greater than 20.
 5. Filter and display products whose name starts with the letter 'T'.
 
-## Iteration 6
+## Iteration 5
 
 1. Group the products DataFrame by 'Category' and calculate the average price for each category.
 2. Find the total stock for each category.
@@ -80,7 +72,7 @@ Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Categor
 4. Group the DataFrame by Supplier and show the total stock for each supplier.
 5. Group by Category and Supplier and show the average price for each combination.
 
-## Iteration 7
+## Iteration 6
 
 1. **Using `map()` to Apply a Discount:**
    Create a new column `Discounted Price` that applies a 10% discount to all products.
@@ -89,12 +81,12 @@ Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Categor
 3. **Classifying Products by Price:**
    Create a function to classify products as 'Expensive' or 'Cheap' based on whether the price is greater than $500, and use apply() to create a Price Category column.
 
-## Iteration 8
+## Iteration 7
 
 1. Generate a statistical summary of the DataFrame using the `describe()` method.
 2. Use the `value_counts()` method to count the number of products in each category.
 
-## Iteration 9
+## Iteration 8
 
 Export the cleaned and analyzed DataFrame to a new CSV file.
 
