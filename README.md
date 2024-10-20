@@ -112,6 +112,22 @@ Rename the columns of the imported DataFrame to ['ID', 'Name', 'Price', 'Categor
 
 Export the cleaned and analyzed DataFrame to a new CSV file.
 
+## Bonus
+
+The goal of this bonus task is to challenge students to further manipulate data using pandas, focusing on grouping and sorting techniques.
+
+1. **Get the 3 most expensive products per category:**
+   - Use pandas to group the products by **category** and then select the **top three most expensive products** within each category.
+
+2. **Find the products with the highest stock per supplier:**
+   - Group the products by **supplier** and select the product with the **highest stock** from each supplier.
+
+3. **Calculate the total value of products per category:**
+   - Create a new column that multiplies the **price** by the **stock** for each product and then calculate the **total value of products** (i.e., price x stock) per **category**.
+
+4. **List categories with an average price greater than $1000:**
+   - Calculate the **average price** per category and display only those categories where the average price is greater than $1000.
+
 ## Submission
 Once you have completed your analysis and visualizations, push your Jupyter notebook to your forked GitHub repository. Ensure that your final submission includes narratives explaining your visualizations and insights.
 Run the following commands:
