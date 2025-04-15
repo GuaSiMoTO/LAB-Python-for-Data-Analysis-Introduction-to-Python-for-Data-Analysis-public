@@ -69,7 +69,7 @@ pip install -r requirements.txt
 1. Select and print the 'Product Name' and 'Price' columns from the products DataFrame.
 2. Use `.loc[]` to select all details for the product with ID 103.
 3. Use `.iloc[]` to select the first three rows of the DataFrame.
-4. Select and display the rows where the Supplier is 'Electronics'.
+4. Select and display the rows where the Category is 'Electronics'.
 5. Use `.loc[]` to update the price of the product with ID 102 to 160.
 
 ## Iteration 3
