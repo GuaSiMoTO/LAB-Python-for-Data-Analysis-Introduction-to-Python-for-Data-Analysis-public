@@ -114,8 +114,6 @@ Export the cleaned and analyzed DataFrame to a new CSV file.
 
 ## Bonus
 
-The goal of this bonus task is to challenge students to further manipulate data using pandas, focusing on grouping and sorting techniques.
-
 1. **Get the 3 most expensive products per category:**
    - Use pandas to group the products by **category** and then select the **top three most expensive products** within each category.
 
